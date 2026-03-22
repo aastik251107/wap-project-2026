@@ -1,13 +1,13 @@
-# 🧠 Mood-Based Content Recommender 🎵🎬
+#  Mood-Based Content Recommender 
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Mood-Based Content Recommender** is a web application that suggests movies or music based on the user's current mood. Instead of manually searching for content, users can simply select how they feel (e.g., Happy, Sad, Chill, Focused), and the application will provide personalized recommendations.
 
 This project demonstrates the use of JavaScript, API integration, and dynamic UI design to create an engaging and interactive user experience.
 
 
-## 🎯 Objective
+##  Objective
 
 To build a responsive web application that:
 
@@ -18,22 +18,22 @@ To build a responsive web application that:
 
 
 
-## 🚀 Features (Planned)
+##  Features (Planned)
 
-### 🎭 Mood Selection
+###  Mood Selection
 
 * Users can select moods like:
 
-  * Happy 😊
-  * Sad 😢
-  * Chill 😌
-  * Focus 🎯
+  * Happy 
+  * Sad 
+  * Chill 
+  * Focus 
 
-### 🔍 Search Functionality
+### Search Functionality
 
 * Search for movies or songs manually
 
-### 🎛️ Filtering
+### Filtering
 
 * Filter results by:
 
@@ -41,7 +41,7 @@ To build a responsive web application that:
   * Language
   * Popularity
 
-### 🔽 Sorting
+###  Sorting
 
 * Sort content by:
 
@@ -49,38 +49,38 @@ To build a responsive web application that:
   * Popularity
   * Release date
 
-### ❤️ Favorites
+###  Favorites
 
 * Users can save their favorite content
 * Data stored using Local Storage
 
-### 🌙 Dark / Light Mode
+### Dark / Light Mode
 
 * Toggle between themes for better user experience
 
-### ⏳ Loading Indicators
+###  Loading Indicators
 
 * Display loading state while fetching data
 
 ---
 
-## 🔗 APIs Used
+##  APIs Used
 
-### 🎬 Movie Data
+###  Movie Data
 
 * TMDB API
-  👉 https://developer.themoviedb.org/docs
-  👉 https://www.themoviedb.org/settings/api
+   https://developer.themoviedb.org/docs
+   https://www.themoviedb.org/settings/api
 
-### 🎵 Music Data
+###  Music Data
 
 * Spotify Web API
-  👉 https://developer.spotify.com/documentation/web-api/
-  👉 https://developer.spotify.com/dashboard/
+   https://developer.spotify.com/documentation/web-api/
+   https://developer.spotify.com/dashboard/
 
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * HTML5
 * CSS3 / Tailwind CSS (optional)
@@ -89,7 +89,7 @@ To build a responsive web application that:
 
 
 
-## 📂 Project Structure
+##  Project Structure
 
 project-folder/
 │── index.html
@@ -99,32 +99,32 @@ project-folder/
 
 
 
-## 📅 Milestones
+##  Milestones
 
-### ✅ Milestone 1 (Planning)
+###  Milestone 1 (Planning)
 
 * Project idea finalized
 * API selected
 * README created
 
-### 🔄 Milestone 2 (API Integration)
+###  Milestone 2 (API Integration)
 
 * Fetch data from APIs
 * Display content dynamically
 
-### ⚙️ Milestone 3 (Core Features)
+###  Milestone 3 (Core Features)
 
 * Implement search, filter, sorting using HOFs
 * Add favorites and dark mode
 
-### 🚀 Milestone 4 (Final Submission)
+###  Milestone 4 (Final Submission)
 
 * Refactor code
 * Deploy project
 * Update documentation
 
 
-## ⭐ Bonus Features (Planned)
+##  Bonus Features (Planned)
 
 * Debounced search input
 * Pagination or infinite scroll
@@ -133,7 +133,7 @@ project-folder/
 
 
 
-## 💡 Future Enhancements
+##  Future Enhancements
 
 * AI-based mood detection (text input)
 * Voice-based search
